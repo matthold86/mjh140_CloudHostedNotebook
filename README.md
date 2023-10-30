@@ -1,4 +1,4 @@
-## College Basketball Analysis - Cloud Hosted Notebook
+## Cloud Hosted Notebook - College Basketball Analysis
 
 [![CI](https://github.com/nogibjj/mjh140_miniproject6/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mjh140_miniproject6/actions/workflows/cicd.yml)
 
