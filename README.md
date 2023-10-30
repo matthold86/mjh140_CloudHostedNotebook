@@ -1,4 +1,4 @@
-## College Basketball Most Dominant Teams 2002 - 2017
+## College Basketball Analysis - Cloud Hosted Notebook
 
 [![CI](https://github.com/nogibjj/mjh140_miniproject6/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/mjh140_miniproject6/actions/workflows/cicd.yml)
 
