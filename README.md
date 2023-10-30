@@ -4,7 +4,7 @@
 
 ### Summary:
 
-The objective of this project is to evaluate college basketball teams on their adjusted offense and adjusted defense scores extracted from the KenPOMS database.
+The objective of this project is to use a cloud hosted notebook to evaluate college basketball teams on their adjusted offense and adjusted defense scores extracted from the KenPOMS database.
 
 * `Adjusted Offense`: Points Scored per 100 Posessions
 * `Adjusted Defense`: Points Allowed per 100 Posessions
