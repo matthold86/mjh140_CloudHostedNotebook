@@ -18,9 +18,6 @@ Example: Gonzaga 2002
 
 The database used for this analysis includes all Division 1 teams between 2002 and 2017. The `Combined Adjusted O/D` metric was averaged across all 15 years for each team. The final output is a table of the top 10 teams with the highest `Combined Adjusted O/D`. This table represents the most dominant college basketball teams between 2002 and 2017 with respect to adjusted offense and adjusted defense.
 
-#### Data Analysis:
-
-The data was stored in two tables on a Microsoft Azure Databricks sql database. The two tables were "inner joined" on matching `Team` and `Year`. The new `Combined Adjusted O/D` metric was created as the subtraction of `AdjustedO` and `AdjustedD`. A sql "Group By" command was used to calculate the average `Combined Adjusted O/D` across all teams. See the `averageEFF` function within `/src/main.py` for more details on the SQL commands.
 
 #### Results
 
